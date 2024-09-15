@@ -1,5 +1,8 @@
+![MasterHead]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fivsoca%2Fivsoca&psig=AOvVaw2LknYUxFRiHehVsccvTHYS&ust=1726487547559000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIidgb_xxIgDFQAAAAAdAAAAABAZ)
 <h1 align="center">Hi 👋, I'm Dheeraj Kriplani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*w5W4vlki-8Y4R2Ti0mtwSw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj26-02&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj26-02" /> </p>
 
