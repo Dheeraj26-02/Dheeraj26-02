@@ -2,7 +2,7 @@
 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fivsoca%2Fivsoca&psig=AOvVaw2LknYUxFRiHehVsccvTHYS&ust=1726487547559000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIidgb_xxIgDFQAAAAAdAAAAABAZ)
 <h1 align="center">Hi 👋, I'm Dheeraj Kriplani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw1mn8C1ilTwqmDS6Q6kaEk8&ust=1726489271937000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDvgfj3xIgDFQAAAAAdAAAAABB5">
+<img align="right" alt="coding" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw1mn8C1ilTwqmDS6Q6kaEk8&ust=1726489271937000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDvgfj3xIgDFQAAAAAdAAAAABB5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj26-02&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj26-02" /> </p>
 
