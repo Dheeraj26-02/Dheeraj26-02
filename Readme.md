@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1xUPUEN_0KphBKL1dHWpyoiaRha80fiJzcJnCUy-rFP0/edit?usp=sharing](https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am a Guitarist**
+- ⚡ Hobbies **I am a Guitarist 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
