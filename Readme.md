@@ -1,4 +1,4 @@
-![MasterHead](https://assets.pinterest.com/ext/embed.html?id=112238215706231856)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fivsoca%2Fivsoca&psig=AOvVaw2LknYUxFRiHehVsccvTHYS&ust=1726487547559000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIidgb_xxIgDFQAAAAAdAAAAABAZ)
 <h1 align="center">Hi 👋, I'm Dheeraj Kriplani</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
