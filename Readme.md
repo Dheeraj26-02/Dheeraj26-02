@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/dheerajkriplani/home](https://sites.google.com/view/dheerajkriplani/home)
+- 👨‍💻 All of my projects are available at [https://dheeraj26.netlify.app/]https://dheeraj26.netlify.app/)
 
 - 💬 Ask me about **React, MongoDB**
 
