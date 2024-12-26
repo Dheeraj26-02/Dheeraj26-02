@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available in my [Portofolio](https://dheeraj26-02.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://dheeraj26-02.github.io/Portfolio/)
 
 - 💬 Ask me about **React, MongoDB**
 
 - 📫 How to reach me **dheeraj8483@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xUPUEN_0KphBKL1dHWpyoiaRha80fiJzcJnCUy-rFP0/edit?usp=sharing](https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1XXcAX21SUh6ZUWki6vWKUnUWI99CZT2H/edit?usp=sharing&ouid=112748552091444009703&rtpof=true&sd=true)
 
 - ⚡ Hobbies **I am a Guitarist 🎸**
 
